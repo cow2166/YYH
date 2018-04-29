@@ -1,7 +1,7 @@
-<conter>
+<center>
 # 實驗一
 # LED閃爍
-</conter>
+</center>
 
 ![](https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%882.36.29.png?raw=true)
 
