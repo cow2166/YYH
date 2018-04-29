@@ -13,7 +13,7 @@
 
 
 
-<code>
+<pre><code>
 
 int led13 = 13 ;</br>
 int led12 = 12 ;</br>
@@ -57,7 +57,7 @@ void loop() {</br>
   digitalWrite(led13, LOW);</br>
   delay(1000);</br>
 }</br>
-</code>
+</code></pre>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wb8W63FOoro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
