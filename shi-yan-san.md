@@ -63,7 +63,8 @@ void loop() {
 
 <li>如果上面那個你已經完成了的話,可以嘗試一下,先從中間的燈開始亮起,依次向 兩邊擴開。下圖是個變換過程的示意圖。</li>
 
-![](https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.41.11.png?raw=true)
+
+<img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.41.11.png?raw=true" alt="程式" title="程式">
 
 ```
 int led13 = 13 ;
