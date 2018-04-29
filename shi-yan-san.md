@@ -15,48 +15,48 @@
 
 <code>
 
-int led13 = 13 ;
-int led12 = 12 ;
-int led11 = 11 ;
-int led10 = 10 ;
-int led9 = 9 ;
-int led8 = 8 ;
-void setup() {
-  pinMode(led13, OUTPUT);
-  pinMode(led12, OUTPUT);
-  pinMode(led11, OUTPUT);
-  pinMode(led10, OUTPUT);
-  pinMode(led9, OUTPUT);
-  pinMode(led8, OUTPUT);
+int led13 = 13 ;</br>
+int led12 = 12 ;</br>
+int led11 = 11 ;</br>
+int led10 = 10 ;</br>
+int led9 = 9 ;</br>
+int led8 = 8 ;</br>
+void setup() {</br>
+  pinMode(led13, OUTPUT);</br>
+  pinMode(led12, OUTPUT);</br>
+  pinMode(led11, OUTPUT);</br>
+  pinMode(led10, OUTPUT);</br>
+  pinMode(led9, OUTPUT);</br>
+  pinMode(led8, OUTPUT);</br>
 
-}
+}</br>
 
-void loop() {
-  digitalWrite(led13, HIGH);
-  delay(400);
-  digitalWrite(led12, HIGH);
-  delay(400);
-  digitalWrite(led11, HIGH);
-  delay(400);
-  digitalWrite(led10, HIGH);
-  delay(400);
-  digitalWrite(led9, HIGH);
-  delay(400);
-  digitalWrite(led8, HIGH);
-  delay(1000);
-  digitalWrite(led8, LOW);
-  delay(400);
-  digitalWrite(led9, LOW);
-  delay(400);
-  digitalWrite(led10, LOW);
-  delay(400);
-  digitalWrite(led11, LOW);
-  delay(400);
-  digitalWrite(led12, LOW);
-  delay(400);
-  digitalWrite(led13, LOW);
-  delay(1000);
-}
+void loop() {</br>
+  digitalWrite(led13, HIGH);</br>
+  delay(400);</br>
+  digitalWrite(led12, HIGH);</br>
+  delay(400);</br>
+  digitalWrite(led11, HIGH);</br>
+  delay(400);</br>
+  digitalWrite(led10, HIGH);</br>
+  delay(400);</br>
+  digitalWrite(led9, HIGH);</br>
+  delay(400);</br>
+  digitalWrite(led8, HIGH);</br>
+  delay(1000);</br>
+  digitalWrite(led8, LOW);</br>
+  delay(400);</br>
+  digitalWrite(led9, LOW);</br>
+  delay(400);</br>
+  digitalWrite(led10, LOW);</br>
+  delay(400);</br>
+  digitalWrite(led11, LOW);</br>
+  delay(400);</br>
+  digitalWrite(led12, LOW);</br>
+  delay(400);</br>
+  digitalWrite(led13, LOW);</br>
+  delay(1000);</br>
+}</br>
 </code>
 
 
