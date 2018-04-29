@@ -11,7 +11,7 @@
 ---
 
 <ol type="1">
-<li>選擇任意顏色 LED 6 個,做一個流水燈的效果,6 盞燈從左至右依次點亮,然後再 從右至左依次熄滅。</li>
+<h3><li>選擇任意顏色 LED 6 個,做一個流水燈的效果,6 盞燈從左至右依次點亮,然後再 從右至左依次熄滅。</li></h3>
 
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.38.37.png?raw=true" alt="程式" title="程式">
 
@@ -68,7 +68,7 @@ void loop() {</br>
 <HR color="#ffd000">
 
 
-<li>如果上面那個你已經完成了的話,可以嘗試一下,先從中間的燈開始亮起,依次向 兩邊擴開。下圖是個變換過程的示意圖。</li>
+<h3><li>如果上面那個你已經完成了的話,可以嘗試一下,先從中間的燈開始亮起,依次向 兩邊擴開。下圖是個變換過程的示意圖。</li></h3>
 
 
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.41.11.png?raw=true" alt="程式" title="程式">
@@ -118,7 +118,7 @@ void loop() {
 
 <HR color="#ffd000">
 
-<li>再比如,從左至右,依次亮起 1 個,2 個,3 個......</li>
+<h3><li>再比如,從左至右,依次亮起 1 個,2 個,3 個......</li></h3>
 
 
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.43.19.png?raw=true" alt="程式" title="程式">
@@ -172,7 +172,7 @@ void loop() {
 
 <HR color="#ffd000">
 
-<li>再結合按鈕,用按鍵開關和 LED 互動。</li>
+<h3><li>再結合按鈕,用按鍵開關和 LED 互動。</li></h3>
 
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.46.01.png?raw=true" alt="程式" title="程式">
 
