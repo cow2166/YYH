@@ -13,7 +13,7 @@
 
 
 
-```
+<code>
 
 int led13 = 13 ;
 int led12 = 12 ;
@@ -57,7 +57,7 @@ void loop() {
   digitalWrite(led13, LOW);
   delay(1000);
 }
-```
+</code>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Wb8W63FOoro" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -68,7 +68,8 @@ void loop() {
 
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.41.11.png?raw=true" alt="程式" title="程式">
 
-```
+
+<code>
 int led13 = 13 ;
 int led12 = 12 ;
 int led11 = 11 ;
@@ -107,7 +108,7 @@ void loop() {
 
 }
 
-```
+</code>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NwWbz7tk1ag" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
@@ -118,8 +119,7 @@ void loop() {
 <img src="https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-04-29%20%E4%B8%8B%E5%8D%885.43.19.png?raw=true" alt="程式" title="程式">
 
 
-
-```
+<code>
 int led13 = 13 ;
 int led12 = 12 ;
 int led11 = 11 ;
@@ -160,7 +160,7 @@ void loop() {
 
 }
 
-```
+</code>
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jk1a_RDkoFM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -171,7 +171,8 @@ void loop() {
 
 
 
-```
+
+<code>
 int led13 = 13 ;
 
 int button = 12;
@@ -191,7 +192,7 @@ void loop(){
 }
 }
 
-```
+</code>
 
 
 
