@@ -13,6 +13,7 @@
 
 
 <pre><code>
+
 #include <IRremote.h>           //调用IRremote.h库
 int RECV_PIN = 11;              //定义RECV_PIN变量为11    
 int ledPin = 10;                // LED – digital 10
@@ -40,6 +41,7 @@ void loop() {
    irrecv.resume();  // 继续等待接收下一组信号
    }
 }
+
 </pre></code>
 
 
