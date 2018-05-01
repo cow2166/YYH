@@ -1,3 +1,9 @@
-# My Awesome Book
+# 四設二乙
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+組員：
+40523209 王博聖
+40523211 余昱輝
+40523230 陳永昌
+40523245 謝東廷
+
+
