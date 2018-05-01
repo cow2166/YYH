@@ -11,7 +11,7 @@
 ![](https://github.com/cow2166/gitbo/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-05-01%20%E4%B8%8B%E5%8D%8810.26.09.png?raw=true)
  
 
-```
+``` 
 
 #include <IRremote.h>           //调用IRremote.h库
 int RECV_PIN = 11;              //定义RECV_PIN变量为11    
