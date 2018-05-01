@@ -11,8 +11,7 @@
 ![](https://github.com/cow2166/gitbo/blob/master/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-05-01%20%E4%B8%8B%E5%8D%8810.26.09.png?raw=true)
  
 
-
-<pre><code>
+```
 
 #include <IRremote.h>           //调用IRremote.h库
 int RECV_PIN = 11;              //定义RECV_PIN变量为11    
@@ -42,7 +41,7 @@ void loop() {
    }
 }
 
-</pre></code>
+```
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wRfbxzkZ2uA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> 
