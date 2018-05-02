@@ -21,7 +21,7 @@ int ledPin = 10;        //設定LED燈的電源接口為10
 void setup() {
 pinMode(ledPin, OUTPUT);        //設定LED燈為輸出值       
 }
-void loop() {                //開始持續循環以下程式
+void loop() {
 digitalWrite(ledPin,HIGH);        //燈變亮 
 delay(1000);                 //維持1000毫秒
 digitalWrite(ledPin,LOW);         //燈變暗
