@@ -19,9 +19,9 @@ int rledPin = 12;  //設定紅色LED燈的電源接口為12
 int gledPin = 11;  //設定綠色LED燈的電源接口為11
 int yledPin = 10;  //設定黃色LED燈的電源接口為10
 void setup() {
-        pinMode(rledPin, OUTPUT);  //設定LED燈為輸出值
-        pinMode(yledPin, OUTPUT);
-        pinMode(gledPin, OUTPUT);
+        pinMode(rledPin, OUTPUT);  //設定紅色LED燈為輸出值
+        pinMode(yledPin, OUTPUT);  //設定黃色LED燈為輸出值
+        pinMode(gledPin, OUTPUT);  //設定綠色LED燈為輸出值
 }
 void loop() {
         digitalWrite(rledPin,HIGH);  //紅色燈變亮
