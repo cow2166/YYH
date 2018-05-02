@@ -30,7 +30,7 @@ void loop(){
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pQYlbng2o-Y" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-</hr>
+---
 
 <h1>結合lde燈</h1>
 
