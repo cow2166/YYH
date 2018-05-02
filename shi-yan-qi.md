@@ -50,3 +50,10 @@ void loop(){
 ```
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EmBtX2208sg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+
+<h1>警報器結合LED燈</h1>
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNFZH34YOEc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
