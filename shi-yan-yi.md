@@ -13,17 +13,19 @@ LED閃爍</br>
 
 //項目一 —— LED 閃爍 
 /* 
-描述:LED 每隔一秒交替亮灭一次 
+描述:LED 每隔一秒交替亮滅一次 
 */ 
-int ledPin = 10;
+
+int ledPin = 10;        //設定LED燈的電源接口為10
+
 void setup() {
-        pinMode(ledPin, OUTPUT);
+        pinMode(ledPin, OUTPUT);        //設定LED燈為輸出值       
 }
-void loop() {
-digitalWrite(ledPin,HIGH); 
-delay(1000); 
-digitalWrite(ledPin,LOW); 
-delay(1000); 
+void loop() {                        //開始持續循環以下程式
+        digitalWrite(ledPin,HIGH);        //燈變亮 
+        delay(1000);                 //維持1000毫秒
+        digitalWrite(ledPin,LOW);         //燈變暗
+        delay(1000);                 //維持1000毫秒
 }
 ```
 
