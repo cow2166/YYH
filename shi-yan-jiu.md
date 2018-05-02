@@ -33,3 +33,37 @@ void loop(){
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hESpI9IWVOE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+---
+<h1>感光警報器</h1>
+
+![](https://github.com/cow2166/gitbo/blob/master/re/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202018-05-02%20%E4%B8%8B%E5%8D%888.28.30.png?raw=true)
+
+```
+int val = 0; 
+float sinVal; 
+float sinVal2; 
+int toneVal; 
+ 
+void setup(){ 
+     pinMode(8,OUTPUT);         
+     Serial.begin(9600);        
+} 
+ 
+void loop(){ 
+     val = analogRead(0);         
+     Serial.println(val);        
+     sinVal = val;  
+     if(val<1000){                
+          digitalWrite(8,LOW);
+          digitalWrite(sinVal,LOW); 
+     }else{
+          digitalWrite(8,HIGH);
+          digitalWrite(sinVal,HIGH);
+     } 
+}
+```
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dNFZH34YOEc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
