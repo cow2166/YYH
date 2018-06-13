@@ -24,21 +24,5 @@
 
 1.[練習1](https://www.youtube.com/watch?v=LwXqC03Qoys)
 
-2.練習2
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2.[練習2](https://www.youtube.com/watch?v=fAT-DEcROKE)
 
