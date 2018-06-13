@@ -20,7 +20,7 @@
 
 ### **注意**:不但要下載DHT數據庫,還要安裝Adafruit\_Sensor數據庫,否則無法編譯![](/assets/esp-4.png)
 
-## 數據回傳實際練習影片:
+## 數據回傳實際練習影片: 
 
 1.[練習1](https://www.youtube.com/watch?v=LwXqC03Qoys)
 
