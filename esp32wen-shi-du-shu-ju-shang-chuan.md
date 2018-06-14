@@ -22,7 +22,10 @@
 
 ## 數據回傳實際練習影片:
 
-1.[練習1](https://www.youtube.com/watch?v=LwXqC03Qoys)
+1.練習1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LwXqC03Qoys" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-2.[練習2](https://www.youtube.com/watch?v=fAT-DEcROKE)
+2.練習2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fAT-DEcROKE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
